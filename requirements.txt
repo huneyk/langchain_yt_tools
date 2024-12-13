@@ -6,3 +6,5 @@ pandas
 yt-dlp
 whisper
 pytube
+streamlit
+python-dotenv
